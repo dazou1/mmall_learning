@@ -12,7 +12,7 @@ target/
 
 # idea ignore
 out/
-.idea/
+.idea/git
 /idea/
 *.ipr
 *.iml
