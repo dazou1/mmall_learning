@@ -11,6 +11,7 @@
 target/
 
 # idea ignore
+out/
 .idea/
 /idea/
 *.ipr
